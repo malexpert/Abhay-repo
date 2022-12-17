@@ -1,0 +1,22 @@
+.style {
+  background-color: aquamarine;
+  height: 100pc;
+}
+body {
+  margin: 0px;
+  position: center;
+}
+h1 {
+  width: 10pc;
+  margin: 0 auto 0 auto;
+  font-family: "Caveat", cursive;
+}
+p {
+  padding-left: 628px;
+}
+.pic1 {
+  padding-left: 280px;
+}
+.m1 {
+  padding: top 50px;
+}

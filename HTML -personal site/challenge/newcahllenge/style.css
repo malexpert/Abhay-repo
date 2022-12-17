@@ -1,0 +1,31 @@
+.C1 {
+  background-color: red;
+}
+.C2 {
+  background-color: yellow;
+}
+.C3 {
+  background-color: brown;
+}
+
+.C4 {
+  background-color: aliceblue;
+}
+.C5 {
+  background-color: rebeccapurple;
+}
+.C6 {
+  background-color: hotpink;
+}
+body {
+  margin: 0 0;
+}
+article {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 100px 100px 100px;
+  text-transform: uppercase;
+  align-items: center;
+  gap: 50px;
+  justify-items: center;
+}
